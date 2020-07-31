@@ -1,2 +1,5 @@
 Criando um novo arquivo
 Criei uma Linha no master
+alterado o arquivo
+mais uma alteração
+Inclui mais uma linha
