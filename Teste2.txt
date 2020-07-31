@@ -1,3 +1,4 @@
 Criando um novo arquivo
 alterado o arquivo
 mais uma alteração
+Inclui mais uma linha
